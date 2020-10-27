@@ -1,1 +1,2 @@
-# Codemonkey
+# Example repository
+Lerning Git!
